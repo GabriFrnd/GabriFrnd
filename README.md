@@ -1,3 +1,17 @@
+<h3 align="left">👾 Greetings, I'm Gabriel!</h3>
+
+###
+
+<p align="left">---</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GabriFrnd/GabriFrnd/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -11,11 +25,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GabriFrnd/GabriFrnd/output/snake.svg" alt="Snake animation" />
 
 ###
