@@ -1,11 +1,11 @@
-## 🚀 Welcome to My Cosmic Hub! 
+## 🚀 Welcome to My Cosmic Hub! 👽
 
 > "Exploring the universe of code, one galaxy at a time." 🌌
 
 ---
 
 ### 👾 About Me
-- 👽 **Student of Computer Science**  
+- 🧪 **Student of Computer Science**  
 - 🧠 **Passionate about Artificial Intelligence** & **Web Development**  
 - 🌐 **Building the future, one line of code at a time**  
 
