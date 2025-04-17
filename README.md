@@ -12,6 +12,5 @@
 ---
 
 ### 🛸 Tech Stack & Interests
-- 🤖 **AI/ML**: Python
-- 🕸️ **Web Dev**: JavaScript, React, Node.js, HTML and CSS
+- 🕸️ **Web Dev**: JavaScript, React, HTML and CSS
 - 🛸 **Other Tools**: Git and VS Code
